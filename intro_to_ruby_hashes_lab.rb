@@ -1,8 +1,14 @@
 def new_hash
 
+brandonRoy = {}
+
+
 end
 
 def actor
+
+
+
 
 end
 
